@@ -1,10 +1,10 @@
 {
   "translation": {
     "aboutThisItem": "Over dit item",
-    "addedFromUrl": "(Toegevoegd via URL)",
     "addManifestUrl": "Locatie bron",
     "addManifestUrlHelp": "De URL van een IIIF-resource",
     "addResource": "Voeg bron toe",
+    "addedFromUrl": "(Toegevoegd via URL)",
     "annotationCanvasLabel_1/1": "Item: [{{label}}]",
     "annotationCanvasLabel_1/2": "Links: [{{label}}]",
     "annotationCanvasLabel_2/2": "Rechts: [{{label}}]",
@@ -102,9 +102,9 @@
     "searchSubmitAria": "Zoeken",
     "searchTitle": "Zoek",
     "selectWorkspaceMenu": "Selecteer workspacetype",
+    "showZoomControls": "Toon zoomknoppen",
     "showingNumAnnotations_one": "{{number}} annotatie weergegeven",
     "showingNumAnnotations_other": "{{number}} annotaties weergegeven",
-    "showZoomControls": "Toon zoomknoppen",
     "sidebarPanelsNavigation": "Zijbalk panelen navigatie",
     "single": "Enkel",
     "startHere": "Begin Hier",

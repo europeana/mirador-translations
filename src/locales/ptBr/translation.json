@@ -1,10 +1,10 @@
 {
   "translation": {
     "aboutThisItem": "Sobre esse item",
-    "addedFromUrl": "(Adicionado por URL)",
     "addManifestUrl": "Localização do manifesto",
     "addManifestUrlHelp": "URL do manifesto IIIF",
     "addResource": "Adicionar conteúdo",
+    "addedFromUrl": "(Adicionado por URL)",
     "annotationCanvasLabel_1/1": "Item: [{{label}}]",
     "annotationCanvasLabel_1/2": "Esquerda: [{{label}}]",
     "annotationCanvasLabel_2/2": "Direita: [{{label}}]",
@@ -101,8 +101,8 @@
     "searchSubmitAria": "Realizar busca",
     "searchTitle": "Busca",
     "selectWorkspaceMenu": "Selecione um tipo de área de trabalho",
-    "showingNumAnnotations_one": "Mostrando {{number}} anotações",
     "showZoomControls": "Mostrar controles de zoom",
+    "showingNumAnnotations_one": "Mostrando {{number}} anotações",
     "sidebarPanelsNavigation": "Navegação por paineis na barra lateral",
     "single": "Individual",
     "startHere": "Comece aqui",
