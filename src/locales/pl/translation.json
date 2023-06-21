@@ -104,7 +104,7 @@
     "openCompanionWindow_search": "Szukaj",
     "openInCompanionWindow": "Otwórz w oddzielnym panelu",
     "openWindows": "Aktualnie otwarte okna",
-    "pagination": "{{current}} of {{total}}",
+    "pagination": "{{current}} z {{total}}",
     "position": "Pozycja",
     "previewWindowTitle": "{{title}}",
     "previousCanvas": "Poprzednia pozycja",
