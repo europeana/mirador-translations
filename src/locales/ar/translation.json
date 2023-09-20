@@ -1,10 +1,10 @@
 {
   "translation": {
     "aboutThisItem": "عن هذا العنصر",
-    "addedFromUrl": "(تمت إضافته من الرابط)",
     "addManifestUrl": "موقع المصدر",
     "addManifestUrlHelp": "الرابط لمصدر IIIF ",
     "addResource": "اضف مصدر",
+    "addedFromUrl": "(تمت إضافته من الرابط)",
     "annotationCanvasLabel_1/1": "العنصر: [{{الملصق}}]",
     "annotationCanvasLabel_1/2": "يسار: [{{الملصق }}]",
     "annotationCanvasLabel_2/2": "يمين: [{{الملصق}}]",
@@ -109,8 +109,8 @@
     "searchSubmitAria": "ابحث",
     "searchTitle": "بحث",
     "selectWorkspaceMenu": "اختر نوع مساحة العمل",
-    "showingNumAnnotations_one": "تظهر {{number}} ملاحظات",
     "showZoomControls": "اظهر عناصر التحكم بالتكبير و التصغير",
+    "showingNumAnnotations_one": "تظهر {{number}} ملاحظات",
     "sidebarPanelsNavigation": "تصفح لوح الشريط الجانبي",
     "single": "مفرد",
     "startHere": "إبدأ هنا",
